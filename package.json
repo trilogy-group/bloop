@@ -70,7 +70,7 @@
     "@nytimes/react-prosemirror": "^0.4.2",
     "@rive-app/react-canvas": "^4.0.0",
     "@sentry/integrations": "^7.60.1",
-    "@sentry/react": "^7.60.1",
+    "@sentry/react": "^8.33.1",
     "@sentry/tracing": "^7.60.1",
     "@tauri-apps/api": "^1.5.0",
     "@tippyjs/react": "^4.2.6",
